@@ -2,13 +2,32 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - QDSUISharedThemeColor
+  - QDSUIToggleButton
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIBorderlessButton
+  - QDSUITooltip
+  - QDSUIBackplateGradient
+  - QDSUIToggleBorderlessButton
+  - TrackingObject
+  - QDSUISection
+  - QDSUISecondaryButton
+  - QDSUIAccentColor
+  - QDSUIPrimaryButton
+  - QDSUITextInvertedColor
+  - QDSUITextSecondaryInvertedColor
+  - QDSUIToggleSwitch
+  - Actors
+  - SamplesInfoPanel
+  - QDSUIDestructiveButton
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Overlay UI
   - Water
   - UI
   - 
@@ -35,8 +54,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - OVROverlayCanvas Rendering
+  - Teleport
   m_SortingLayers:
   - name: Default
     uniqueID: 0
@@ -50,27 +69,3 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
