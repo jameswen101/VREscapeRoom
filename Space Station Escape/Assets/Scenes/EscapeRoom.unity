@@ -3000,7 +3000,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -3176,7 +3176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -4377,7 +4377,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -4576,7 +4576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -6006,7 +6006,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3292654313950918604, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.718
+      value: 0.87299997
       objectReference: {fileID: 0}
     - target: {fileID: 3292654313950918604, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6129,6 +6129,10 @@ PrefabInstance:
       value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 7873140054519100664, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.035
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873140054519100664, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
@@ -6142,7 +6146,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -6305,7 +6309,7 @@ CapsuleCollider:
   m_Radius: 0.11515808
   m_Height: 0.48446298
   m_Direction: 1
-  m_Center: {x: 0, y: 0.18, z: 0}
+  m_Center: {x: 0, y: 0.2, z: 0}
 --- !u!114 &228614663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6341,7 +6345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -7658,7 +7662,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -7857,7 +7861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -8800,7 +8804,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -23599,7 +23603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -23775,7 +23779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -26514,7 +26518,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -26713,7 +26717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -35891,7 +35895,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -38367,7 +38371,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3292654313950918604, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.633
+      value: 0.788
       objectReference: {fileID: 0}
     - target: {fileID: 3292654313950918604, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -38490,6 +38494,10 @@ PrefabInstance:
       value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 7873140054519100664, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.132
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873140054519100664, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
@@ -38503,7 +38511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -38679,7 +38687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -38706,7 +38714,7 @@ CapsuleCollider:
   m_Radius: 0.11515808
   m_Height: 0.48446298
   m_Direction: 1
-  m_Center: {x: 0, y: 0.18, z: 0}
+  m_Center: {x: 0, y: 0.3, z: 0}
 --- !u!1001 &1230190237
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42150,7 +42158,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -42349,7 +42357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -45837,7 +45845,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -52906,7 +52914,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -53082,7 +53090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -54098,7 +54106,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -55002,7 +55010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -55201,7 +55209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _yThresholdForRespawn: 0.15
+  _yThresholdForRespawn: 0
   _whenRespawned:
     m_PersistentCalls:
       m_Calls: []
@@ -56650,7 +56658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic
@@ -60399,7 +60407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_UseGravity
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8580307722448229154, guid: 25c090698b1b94e4d9a8f6d5494bdf31, type: 3}
       propertyPath: m_IsKinematic

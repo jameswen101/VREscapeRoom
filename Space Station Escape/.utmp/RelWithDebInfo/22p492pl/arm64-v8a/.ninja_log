@@ -1,0 +1,10 @@
+# ninja log v5
+33	1402	7979109079941648	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9b23e5fa589dd04
+1	1431	7979109080216334	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3673adab5261f506
+41	1440	7979109080307116	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	67ce1fbecd246632
+49	1518	7979109081109260	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ebe5038055fb6587
+10	1549	7979109081419830	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	49b06c0a92e59d20
+59	1672	7979109082662870	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	aa20e679373af54e
+24	1852	7979109084475432	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2a9be52d596ef0d1
+18	1920	7979109085128139	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	74ca16b6b97c442a
+1920	2025	7979109086194498	C:/GitHub/VREscapeRoom/Space Station Escape/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/22p492pl/obj/arm64-v8a/libgame.so	589d4c3ef7764db5
