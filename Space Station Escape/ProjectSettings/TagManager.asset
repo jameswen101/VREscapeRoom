@@ -23,6 +23,16 @@ TagManager:
   - Actors
   - SamplesInfoPanel
   - QDSUIDestructiveButton
+  - FxTemporaire
+  - Mars
+  - Red
+  - Yellow
+  - Blue
+  - Green
+  - Oliver
+  - Paul
+  - Ethan
+  - Nash
   layers:
   - Default
   - TransparentFX
@@ -53,7 +63,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - OVROverlayCanvas Rendering
   - OVROverlayCanvas Rendering
   - Teleport
   m_SortingLayers:
