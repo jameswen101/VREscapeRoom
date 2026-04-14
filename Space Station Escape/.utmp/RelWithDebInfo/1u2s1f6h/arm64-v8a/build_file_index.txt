@@ -1,0 +1,2 @@
+C:\Users\canak\Desktop\Desktop\UnityProjects\VREscapeRoom\Space Station Escape\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\canak\Desktop\Desktop\UnityProjects\VREscapeRoom\Space Station Escape\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
